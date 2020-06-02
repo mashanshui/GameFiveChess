@@ -13,10 +13,10 @@ import android.widget.PopupWindow;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.hao.ai.AI;
-import com.hao.ai.AICallBack;
-import com.hao.udv.FiveChessView;
-import com.hao.udv.GameCallBack;
+import com.hao.gamefivechess.ai.AI;
+import com.hao.gamefivechess.ai.AICallBack;
+import com.hao.gamefivechess.udv.FiveChessView;
+import com.hao.gamefivechess.udv.GameCallBack;
 import com.jaeger.library.StatusBarUtil;
 
 

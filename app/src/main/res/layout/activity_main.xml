@@ -158,7 +158,7 @@
             </LinearLayout>
         </LinearLayout>
         <!--游戏界面-->
-        <com.hao.udv.FiveChessView
+        <com.hao.gamefivechess.udv.FiveChessView
             android:id="@+id/five_chess_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />

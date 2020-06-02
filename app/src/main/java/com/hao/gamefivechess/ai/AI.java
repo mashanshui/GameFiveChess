@@ -1,6 +1,6 @@
-package com.hao.ai;
+package com.hao.gamefivechess.ai;
 
-import com.hao.udv.FiveChessView;
+import com.hao.gamefivechess.udv.FiveChessView;
 
 import java.util.ArrayList;
 import java.util.List;
