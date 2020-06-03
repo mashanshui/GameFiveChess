@@ -15,7 +15,7 @@ import android.widget.Toast;
 import com.hao.gamefivechess.R;
 
 /**
- * Created by ZhangHao on 2017/6/27.
+ * Created by mashanshui
  * 五子棋 View
  */
 

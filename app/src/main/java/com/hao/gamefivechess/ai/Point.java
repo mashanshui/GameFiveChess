@@ -1,7 +1,7 @@
 package com.hao.gamefivechess.ai;
 
 /**
- * Created by ZhangHao on 2017/7/25.
+ * Created by mashanshui
  * 记录每个点的优先级
  */
 

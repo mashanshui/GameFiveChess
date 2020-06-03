@@ -1,7 +1,7 @@
 package com.hao.gamefivechess.ai;
 
 /**
- * Created by ZhangHao on 2017/7/25.
+ * Created by mashanshui
  * AI落子完成回调
  */
 

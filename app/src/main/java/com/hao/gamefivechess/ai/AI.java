@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * Created by ZhangHao on 2017/7/25.
+ * Created by mashanshui
  * 简单的AI
  */
 
